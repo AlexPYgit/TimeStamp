@@ -1,0 +1,27 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "récuperer une date sous un certain format",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPYgit/TimeStamp.git"
+  },
+  "keywords": [
+    "FCC"
+  ],
+  "author": "AlexWeb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexPYgit/TimeStamp/issues"
+  },
+  "homepage": "https://github.com/AlexPYgit/TimeStamp#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
